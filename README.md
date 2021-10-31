@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GonzaloQV
-- 👀 I’m interested in Politic, Economy, etc.
+- 👀 I’m interested in Politics, Economy, etc.
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Political Science
 - 📫 How to reach me ...
